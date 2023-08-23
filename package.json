@@ -1,0 +1,21 @@
+{
+  "name": "twice-exceptional-theme",
+  "displayName": "Twice Exceptional Theme",
+  "description": "A Visual Studio Code theme to love and to hate. ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Twice Exceptional Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Twice Exceptional Theme-color-theme.json"
+      }
+    ]
+  }
+}
